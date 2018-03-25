@@ -2,6 +2,7 @@
 
 An application developed in ReactJs+ React Bootstrap , shows how to design basic Bootstrap UI components with ReactJs and attach events to it etc.
 
+Also included unit test case functionalities using jest+enzyme testing framework.
 
 
 Requirements
