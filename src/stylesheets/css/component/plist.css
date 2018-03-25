@@ -1,0 +1,22 @@
+.component.product,
+.component.product h1,
+.component.product{
+  border: 0;
+  margin: 0;
+}
+.component.product div {
+  width: 25%;
+  display: inline-block;
+  margin: .15rem;
+  border-radius: 15px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+   
+}
+.component.product > h3:last-child,
+.component.product h1 {
+  text-align: center;
+}
+.component.product {
+  text-transform: uppercase;
+}

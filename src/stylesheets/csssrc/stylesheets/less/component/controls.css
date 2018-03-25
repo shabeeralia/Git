@@ -1,0 +1,19 @@
+fieldset.component.controls,
+fieldset.component.controls h1,
+fieldset.component.controls h2,
+fieldset.component.controls h3 {
+  border: 0;
+  margin: 0;
+}
+fieldset.component.controls div {
+  width: 33%;
+  display: inline-block;
+  margin: .25rem;
+}
+fieldset.component.controls > h3:last-child,
+fieldset.component.controls h1 {
+  text-align: center;
+}
+fieldset.component.controls h1 {
+  text-transform: uppercase;
+}
