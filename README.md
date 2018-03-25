@@ -1,8 +1,11 @@
 # Git
 
 An application developed in ReactJs , shows how to design basic UI components and attach events to it etc.
-Requirements
 
+
+
+Requirements
+=============
 
 NodeJS and NPM 
 
