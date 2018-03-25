@@ -1,6 +1,6 @@
-# Git
+# Simaple app with ReactJs and React Bootstrap
 
-An application developed in ReactJs , shows how to design basic UI components and attach events to it etc.
+An application developed in ReactJs+ React Bootstrap , shows how to design basic Bootstrap UI components with ReactJs and attach events to it etc.
 
 
 
